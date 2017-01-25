@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/01/25 11:18:36.236,=C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\Unit12.pas</Transaction>
+    <Transaction>2017/01/25 11:19:06.185,C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\Helloworld.dproj=C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\Project13.dproj</Transaction>
+    <Transaction>2017/01/25 11:20:00.633,C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\HelloLaBelgique.dproj=C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\Helloworld.dproj</Transaction>
+    <Transaction>2017/01/25 11:22:16.387,C:\Users\ali.amsalkhir\Desktop\GitTest\ProjetTest.pas=C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\Unit12.pas</Transaction>
+    <Transaction>2017/01/25 11:22:16.387,C:\Users\ali.amsalkhir\Desktop\GitTest\ProjetTest.dfm=C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\Unit12.dfm</Transaction>
+    <Transaction>2017/01/25 11:22:20.229,C:\Users\ali.amsalkhir\Desktop\GitTest\HelloLaBelgique.dproj=C:\Users\ali.amsalkhir\Documents\RAD Studio\Projets\HelloLaBelgique.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
