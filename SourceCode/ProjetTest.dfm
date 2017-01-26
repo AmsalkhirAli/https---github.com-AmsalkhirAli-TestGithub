@@ -18,7 +18,7 @@ object Form12: TForm12
     Top = 96
     Width = 231
     Height = 40
-    Caption = 'Hello Belgium & France'
+    Caption = 'Hello Belgium & France '
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -33
